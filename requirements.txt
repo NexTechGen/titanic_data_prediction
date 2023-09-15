@@ -5,4 +5,5 @@ pandas-bokeh==0.5.5
 pandas-profiling==3.6.6
 Pillow==9.5.0
 plotly==5.16.1
+scikit-learn==1.0.2
 streamlit
